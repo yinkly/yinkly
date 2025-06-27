@@ -9,10 +9,10 @@ I'm a Computer Science student at Western Governors University with a background
 ## Featured Projects
 
 ### Thermistor Spider
-Custom PCB cape for the BeagleBone Black designed to read up to 7 thermistors using analog inputs. Built in KiCad and optimized for low-noise routing. Includes Steinhart-Hart and polynomial temperature conversion in C++.
+Custom PCB cape for the BeagleBone Black designed to read up to 7 thermistors using analog inputs. Built in KiCad and optimized for low-noise routing. Includes Steinhart-Hart temperature conversion in C++.
 
 - Hardware: BeagleBone Black, Molex Micro-Fit connectors, thermistors
-- Software: Embedded C++, device tree overlay, shell scripts
+- Software: Embedded C++, Linux
 
 ### Automated Cat Feeder Lock
 Raspberry Pi-based servo locking mechanism designed to prevent access to a feeding area for a timed duration. Designed for reliability
