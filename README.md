@@ -20,6 +20,13 @@ Raspberry Pi-based servo locking mechanism designed to prevent access to a feedi
 - Tech stack: Python, GPIO control, timing logic
 - Mechanism: MG995 servo, 3D-printed bracket, 30-minute lockout cycle
 
+
+# Slide Latch Catch
+A low-profile, 3D-printed slide latch catch designed in SolidWorks. It allows a door to close securely while still being easily pushed open from the opposite side without resistance.
+
+Tech stack: SolidWorks, Grabcad
+Materials: ABS
+
 ### OPNsense Router Deployment
 Converted an OptiPlex Desktop into a dedicated router running OPNsense, with VLAN segmentation, firewall configuration, and VoIP prioritization.
 
