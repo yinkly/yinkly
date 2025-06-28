@@ -23,8 +23,8 @@ Raspberry Pi-based servo locking mechanism designed to prevent access to a feedi
 ### Slide Latch Catch
 A low-profile, 3D-printed slide latch catch designed in SolidWorks. It allows a door to close securely while still being easily pushed open from the opposite side without resistance.
 
-Tech stack: SolidWorks, Grabcad
-Materials: ABS
+- Tech stack: SolidWorks, Grabcad
+- Materials: ABS
 
 ### OPNsense Router Deployment
 Converted an OptiPlex desktop into a dedicated OPNsense-based router for a home network overhaul. Designed and implemented end-to-end Ethernet runs throughout the house, added VLAN segmentation, firewall tuning, and VoIP prioritization.
@@ -59,6 +59,20 @@ Designed and produce custom stickers using Photoshop CC for raster artwork and t
   - Workflow: Raster-based design → cut path setup → material selection and cutting
   - Focus Areas: Print alignment, transfer tape handling, and edge-bleed compensation
   - Output: Small-batch runs for novelty, personal projects, and gift item
+
+### Pi-hole DNS Sinkhole Deployment
+Set up a network-wide DNS sinkhole using Pi-hole on a Raspberry Pi to block ads, trackers, and malicious domains across all connected devices.
+
+  - Platform: Raspberry Pi 3B+ running Pi-hole
+  - Configuration:
+      - Assigned static IP to Pi-hole within the LAN
+      - Configured home router to distribute Pi-hole as the primary DNS server via DHCP
+  - Features:
+      - Real-time query logging and analytics via web dashboard
+      - Custom blocklists and domain overrides
+      - Lightweight and passively maintained with automated list updates
+      - Improves browsing speed and reduces network clutter
+        
 ---
 
 ### Skills & Tools
