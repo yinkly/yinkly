@@ -20,7 +20,6 @@ Raspberry Pi-based servo locking mechanism designed to prevent access to a feedi
 - Tech stack: Python, GPIO control, timing logic
 - Mechanism: MG995 servo, 3D-printed bracket, 30-minute lockout cycle
 
-
 ### Slide Latch Catch
 A low-profile, 3D-printed slide latch catch designed in SolidWorks. It allows a door to close securely while still being easily pushed open from the opposite side without resistance.
 
@@ -28,15 +27,42 @@ Tech stack: SolidWorks, Grabcad
 Materials: ABS
 
 ### OPNsense Router Deployment
-Converted an OptiPlex Desktop into a dedicated router running OPNsense, with VLAN segmentation, firewall configuration, and VoIP prioritization.
+Converted an OptiPlex desktop into a dedicated OPNsense-based router for a home network overhaul. Designed and implemented end-to-end Ethernet runs throughout the house, added VLAN segmentation, firewall tuning, and VoIP prioritization.
 
-- Networking: VLANs, QoS, WAN failover, firewall rule tuning
-- Hardware: Intel NICs, managed switch, AP segregation
+  - Hardware: OptiPlex router, Netgear managed switch, Ubiquiti UniFi access point
+  - Networking: Full home Ethernet wiring, VLANs for IoT and guest isolation, custom firewall rules
+  - Features: QoS prioritization for VoIP and gaming traffic, DNS-level ad blocking, segmented Wi-Fi networks
 
+### Residential Electrical Floor Plan
+
+Used AutoCAD to digitize a floor plan of the home and map all electrical outlets, light fixtures, switches, ceiling fans, and circuit breaker assignments. Created a complete electrical layout to simplify troubleshooting, future upgrades, and accurate breaker panel labeling.
+
+  - Tools: AutoCAD, multimeter (for circuit tracing), printed overlay for panel labeling
+  - Deliverables: Annotated electrical floor plan with symbols, circuit IDs, and device types
+  - Features:
+      - Each fixture and outlet mapped to its circuit breaker
+      - Switch pairs and three-way configurations visually tracker
+      - Labeling system created for the physical panel and digital reference
+   
+### LLM-Assisted Investment Strategy
+
+Used ChatGPT to develop and refine a $10,000 equity investment plan based on macroeconomic conditions, sector analysis, and historical ETF performance. Simulated and tracked a diversified portfolio using large-cap and high-growth ETFs.
+
+  - Tools: ChatGPT (prompt-engineered analysis), ETF screener tools, market data sources
+  - Outcome: Net simulated gain of approximately $4,000 as of June 2025
+  - Focus Areas: Tech sector overweight, dividend reinvestment, inflation hedge allocation
+
+### Custom Sticker Design & Production
+Designed and produce custom stickers using Photoshop CC for raster artwork and the Silhouette Studio platform for cutting. Focused on efficient digital-to-physical workflows for short-run production.
+
+  - Tools: Adobe Photoshop CC, Silhouette Studio, vinyl cutter, matte and glossy media
+  - Workflow: Raster-based design → cut path setup → material selection and cutting
+  - Focus Areas: Print alignment, transfer tape handling, and edge-bleed compensation
+  - Output: Small-batch runs for novelty, personal projects, and gift item
 ---
 
 ### Skills & Tools
 
 - Programming: Limited C++
-- Software: KiCad, SolidWorks
+- Software: KiCad, SolidWorks, AutoCad(Limited), Visio
 - Hard Skills: 3D Printing, Soldering(IPC/WHMA-A-620)
