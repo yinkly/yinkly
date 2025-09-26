@@ -49,7 +49,7 @@ Used AutoCAD to digitize a floor plan of the home and map all electrical outlets
 Used ChatGPT to develop and refine a $10,000 equity investment plan based on macroeconomic conditions, sector analysis, and historical ETF performance. Simulated and tracked a diversified portfolio using large-cap and high-growth ETFs.
 
   - Tools: ChatGPT (prompt-engineered analysis), ETF screener tools, market data sources
-  - Outcome: Net simulated gain of approximately $4,000 as of June 2025
+  - Outcome: Net actual gain of approximately $4,000 as of June 2025
   - Focus Areas: Tech sector overweight, dividend reinvestment, inflation hedge allocation
 
 ### Custom Sticker Design & Production
