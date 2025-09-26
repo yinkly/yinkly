@@ -2,7 +2,7 @@
 
 Systems Engineering • Embedded Systems • IT Infrastructure • Automation
 
-I'm a Computer Science student at Western Governors University with a background in IT and a passion for practical engineering solutions. I work across embedded systems, custom hardware design, and network infrastructure, with a focus on building efficient, hands-on solutions for real-world problems.
+A Computer Science student at Western Governors University with a background in IT and a passion for practical engineering solutions. I work across embedded systems, custom hardware design, and network infrastructure, with a focus on building efficient, hands-on solutions for real-world problems.
 
 ---
 
