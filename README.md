@@ -77,6 +77,5 @@ Set up a network-wide DNS sinkhole using Pi-hole on a Raspberry Pi to block ads,
 
 ### Skills & Tools
 
-- Programming: Limited C++
 - Software: KiCad, SolidWorks, AutoCad(Limited), Visio
 - Hard Skills: 3D Printing, Soldering(IPC/WHMA-A-620)
