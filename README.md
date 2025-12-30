@@ -1,4 +1,4 @@
-# Jesse Rienzo
+# Jesse R
 
 Systems Engineering • Embedded Systems • IT Infrastructure • Automation
 
